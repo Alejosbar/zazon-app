@@ -1,0 +1,10 @@
+{
+  "description": "This app helps restaurants analyze customer feedback and reviews, transforming insights into actionable data for improved decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
